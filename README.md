@@ -19,13 +19,7 @@ https://capsule-render.vercel.app/api?
 [<div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>](https://capsule-render.vercel.app/api?)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-![header](https://capsule-render.vercel.app/api?type=slice)
-![header](https://capsule-render.vercel.app/api?color=auto)
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=suhyun%20&fontSize=90" />
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
